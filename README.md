@@ -6,9 +6,11 @@ For this project, I was provided with three critical files: GameExperience.py, T
 
 Connect your learning from throughout this course to the larger field of computer science:
 _What do computer scientists do and why does it matter?_
+
 Computer scientists solve complex problems through computational thinking and technology. Their work is important because it helps create new things in many areas, like AI and cybersecurity. This improves the quality of life for everyone and increases efficiency. Their work shapes how we use computers and the Internet in our daily lives, enabling advancements in healthcare, communication, and banking.
 
 _How do I approach a problem as a computer scientist?_
+
 When computer scientists face a problem, they break things into smaller manageable pieces. They look for patterns and create step-by-step plans to solve it. They first understand the problem, then think about what's needed to fix it. After that, they design a solution, write the computer code, and test it to ensure it works well. They also consider how to make their solution work for more people and its potential future adaptaions. 
 
 _What are my ethical responsibilities to the end user and the organization?_
